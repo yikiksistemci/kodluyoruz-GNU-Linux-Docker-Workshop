@@ -7,7 +7,7 @@
 |------------------|------------------------|
 |Dünya Barışı için Özgür Yazılım | Özgür Yazılım nedir?, Bir yazılımın özgür olması ne demektir?|
 |GNU/Linux|GNU nedir? GNU projesinin Linux çekirdeği karşılaşması (ilk görüşte aşk)|
-|Özgür Yazılım Lisansları|---|
+|Özgür Yazılım Lisansları|Özgür Yazılım Lisansları nelerdir?, Birkaç lisans örneği.|
 |------------------|-----------------------|---|
 |------------------|-----------------------|---|
 |------------------|-----------------------|---|
