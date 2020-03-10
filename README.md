@@ -47,14 +47,15 @@
 
 * Katılımcıların önceden kişisel bilgisayarlarında bir sanallaştırma ortamı kurması gerekmektedir. (KVM,VirtualBox,Xen,Linux-VServer,VMware)
 
-![alt text](https://github.com/yikiksistemci/kodluyoruz-GNU-Linux-Docker-Workshop/blob/master/kodluyoruz_logo.png)
 
 
 
 ### Moderatör:
 <pre>
 Yunus YAŞAR
-GNU/Linux System Administrator at Özgür Yazılım A.Ş.
-yunus.yasar@ozguryazilim.com.tr
-Kodluyoruz Ankara Topluluk Lideri
+- GNU/Linux System Administrator at Özgür Yazılım A.Ş.
+- Kodluyoruz Ankara Topluluk Lideri
 </pre>
+
+
+![alt text](https://github.com/yikiksistemci/kodluyoruz-GNU-Linux-Docker-Workshop/blob/master/kodluyoruz_logo.png)
