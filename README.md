@@ -51,5 +51,10 @@
 
 
 
-Moderatör:
-Yunus YAŞA
+### Moderatör:
+<pre>
+Yunus YAŞAR
+GNU/Linux System Administrator at Özgür Yazılım A.Ş.
+yunus.yasar@ozguryazilim.com.tr
+Kodluyoruz Ankara Topluluk Lideri
+</pre>
