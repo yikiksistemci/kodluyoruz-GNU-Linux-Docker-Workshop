@@ -2,8 +2,9 @@
 
 ## GNU/Linux
 
-|##Bölüm           |                       |
-|01.Bölüm|Dünya Barışı İçin Özgür Yazılım|Özgür Yazılım Nedir?,Bir yazılım nasıl özgür olur?|
+|Bölüm             |İçerik                 |
+|01.Bölüm|Dünya Barışı İçin Özgür Yazılım|Özgür Yazılım 
+       Nedir?,Bir yazılım nasıl özgür olur?|
 |------------------|-----------------------|---|
 |------------------|-----------------------|---|
 |------------------|-----------------------|---|
