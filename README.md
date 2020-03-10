@@ -1,4 +1,4 @@
-# kodluyoruz-GNU-Linux-Docker-Workshop
+# Kodluyoruz GNU/Linux-Docker Workshop
 
 ## GNU/Linux
 
