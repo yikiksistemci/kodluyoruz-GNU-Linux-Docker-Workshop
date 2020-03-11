@@ -17,7 +17,7 @@
 |Kullanıclar ve Grupları|Kullanıcı ekleme-çıkarma, Yetki işlemleri|
 |Servis Yönetimi|Servis nedir? Servisler nasıl yönetilir,"service ve systemctl komutları", servis betikleri nerede saklanır?,yapıları nasıldır? |
 
-## Dokcer
+## Docker
 
 |Bölüm             |İçerik                |
 |------------------|----------------------|
@@ -35,7 +35,7 @@
 
 * Katılımcıların önceden kişisel bilgisayarlarında bir sanallaştırma ortamı kurması gerekmektedir. (KVM,VirtualBox,Xen,Linux-VServer,VMware)
 
-
+* Docker bölümünün şekillenmesinde büyük rol oynayan Sevgili Güray Yıldırım ve Peptr'ye çok teşekkürler. Güncel Docker konu ve uygulamalarına erişmek için [Peptr Blog](https://blog.peptr.net/) sayfasını takip etmeyi unutmayın !!! 
 
 
 ### Moderatör:
