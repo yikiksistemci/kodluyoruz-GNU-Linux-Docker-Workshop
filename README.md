@@ -28,7 +28,7 @@
 |Dockerfile|Dockerfile yapısı ve Dockerfile yazma|---|
 |Docker Compose|Docker-Compose kurulumu,YAML,çoklu konteyner yönetimi,compose ile imaj oluşturmak,örnek uygulama|
 |Portainer Kurulumu ve Kullanımı|Portainer nedir?, Nasıl kurulur?, Avantajları nelerdir?,Nasıl kullanılır?|
-|Log Okuma|Konterner loglarına erişim,log takibi yapma|
+|Log Okuma|Konteyner loglarına erişim,log takibi yapma|
 
 ### Notlar
 * Katılımcılar istedikleri İşletim Sistemi dağıtımı ile Workshop'a dahil olabiler. (Bir GNU/Linux dağtımı ile katılan katılımcılar olursa ne güzel olur, tadından yenmez :P )
