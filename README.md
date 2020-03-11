@@ -33,7 +33,7 @@
 ### Notlar
 * Katılımcılar istedikleri İşletim Sistemi dağıtımı ile Workshop'a dahil olabiler. (Bir GNU/Linux dağtımı ile katılan katılımcılar olursa ne güzel olur, tadından yenmez :P )
 
-* Katılımcıların önceden kişisel bilgisayarlarında bir sanallaştırma ortamı kurması gerekmektedir. (KVM,VirtualBox,Xen,Linux-VServer,VMware)
+* Katılımcıların önceden kişisel bilgisayarlarına bir sanallaştırma ortamı kurması gerekmektedir. (KVM,VirtualBox,Xen,Linux-VServer,VMware)
 
 * Docker bölümünün şekillenmesinde büyük rol oynayan Sevgili Güray Yıldırım ve Peptr'ye çok teşekkürler. Güncel Docker konu ve uygulamalarına erişmek için [Peptr Blog](https://blog.peptr.net/) sayfasını takip etmeyi unutmayın !!! 
 
