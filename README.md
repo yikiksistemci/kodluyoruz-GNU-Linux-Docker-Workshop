@@ -23,7 +23,7 @@
 |------------------|----------------------|
 |Docker ve Container Teknolojileri|Container nedir? Docker nedir?|
 |Docker Kurulumu|Centos 7 dağıtımına Docker kurma|
-|Docker'a Başlangıç|Docker temel komutları,koyterner oluşturmak-silmek-listelemek,konteyner'ın durumunu kontrol etmek|
+|Docker'a Başlangıç|Docker temel komutları,Konteyner oluşturmak-silmek-listelemek,konteyner'ın durumunu kontrol etmek|
 |Docker İmajları|Base ve Parent Image Kavramı|
 |Dockerfile|Dockerfile yapısı ve Dockerfile yazma|---|
 |Docker Compose|Docker-Compose kurulumu,YAML,çoklu konteyner yönetimi,compose ile imaj oluşturmak,örnek uygulama|
