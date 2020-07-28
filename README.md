@@ -41,7 +41,7 @@
 ### Moderatör:
 <pre>
 Yunus YAŞAR
-- GNU/Linux System Administrator at Özgür Yazılım A.Ş.
+- GNU/Linux System Administrator at sahibinden.com
 - Kodluyoruz Ankara Topluluk Lideri
 </pre>
 
